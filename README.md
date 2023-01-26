@@ -1,5 +1,4 @@
 # Recommender-Solutions-Big-Data
-# Technical  Solutions for Big Data
 ### By: Merve Nur Özdemir
 
 ## Executive Summary
